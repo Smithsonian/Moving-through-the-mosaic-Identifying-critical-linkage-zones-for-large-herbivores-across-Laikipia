@@ -13,6 +13,6 @@ The datasets include:
 4. Species richness estimates (Tiff, Projection: UTM 37 N)
 5. Antropogenic areas shapefile (Projection: UTM 37 N)
 6. Centroids shapefile (Projection: UTM 37 N)
-6. R code to run circuitscape models.
 7. GPS locations for plains zebra and Grevy's zebra. (Shapefiles, Projection: UTM 37 N)  (Given data restrictions, we cannot make elephant and giraffe data available).
+8. R code to run circuitscape models.
 
