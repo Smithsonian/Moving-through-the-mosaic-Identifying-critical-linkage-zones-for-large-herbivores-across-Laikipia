@@ -20,6 +20,7 @@ The datasets include:
 Abstract: 
 
 Context: Reduced connectivity across grassland ecosystems can impair their functional heterogeneity and negatively impact large herbivore populations. Maintaining landscape connectivity across human-dominated rangelands is therefore a key conservation priority.
+
 Objective: Integrate data on large herbivore occurrence and species richness with analyses of functional landscape connectivity to identify important areas for maintaining or restoring connectivity for large herbivores.
 
 Methods: The study was conducted on a landscape with a mosaic of multiple land uses in Laikipia County, Kenya.  We used occupancy estimates for four herbivore species [African elephant (Loxodonta africana), reticulated giraffe (Giraffa reticulata), plains zebra (Equus quagga), and Grevy’s zebra (Equus grevyi)] and species richness estimates derived from aerial surveys to create resistance surfaces to movement for single species and a multi-species assemblage, respectively.  We validated single-species resistance surfaces using telemetry data.  We used circuit theory and least cost-path analyses to model linkage zones across the landscape and prioritize areas for connectivity restoration.
